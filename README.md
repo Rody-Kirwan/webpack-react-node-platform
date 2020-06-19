@@ -2,8 +2,8 @@
 A simple setup for nodeJS browser application
 
 ## To run:
-`npm install` - installs all dependencies listed in package.json
-`npm run dev`- serves the application on a live server running on 
+ - `npm install` - installs all dependencies listed in package.json
+ - `npm run dev`- serves the application on a live server running on 
 
 
 ## Technologies used
